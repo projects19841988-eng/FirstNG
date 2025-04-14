@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-01T12:57:52 CEST" name="Default suite" finished-at="2025-04-01T12:58:17 CEST" duration-ms="24603">
+    <groups>
+      <group name="grouping">
+        <method signature="TestLogin.correct()[pri:3, instance:OrangePOM.TestLogin@9597028]" name="correct" class="OrangePOM.TestLogin"/>
+      </group> <!-- grouping -->
+    </groups>
+    <test started-at="2025-04-01T12:57:52 CEST" name="Default test" finished-at="2025-04-01T12:58:17 CEST" duration-ms="24603">
+      <class name="OrangePOM.TestLogin">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:57:52 CEST" name="launchBrowser" finished-at="2025-04-01T12:57:56 CEST" duration-ms="3849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:57:56 CEST" name="backToHome" finished-at="2025-04-01T12:57:57 CEST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHome -->
+        <test-method signature="empty()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:57:57 CEST" name="empty" finished-at="2025-04-01T12:57:58 CEST" duration-ms="1334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empty -->
+        <test-method is-config="true" signature="ToHome()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:57:58 CEST" name="ToHome" finished-at="2025-04-01T12:57:59 CEST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToHome -->
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:57:59 CEST" name="backToHome" finished-at="2025-04-01T12:57:59 CEST" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHome -->
+        <test-method signature="wrong()[pri:1, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:57:59 CEST" name="wrong" finished-at="2025-04-01T12:58:05 CEST" duration-ms="6097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrong -->
+        <test-method is-config="true" signature="ToHome()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:58:05 CEST" name="ToHome" finished-at="2025-04-01T12:58:06 CEST" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToHome -->
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:58:06 CEST" name="backToHome" finished-at="2025-04-01T12:58:07 CEST" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHome -->
+        <test-method signature="aempty()[pri:2, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:58:07 CEST" name="aempty" finished-at="2025-04-01T12:58:08 CEST" duration-ms="1115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aempty -->
+        <test-method is-config="true" signature="ToHome()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:58:08 CEST" name="ToHome" finished-at="2025-04-01T12:58:09 CEST" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToHome -->
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:58:09 CEST" name="backToHome" finished-at="2025-04-01T12:58:10 CEST" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHome -->
+        <test-method signature="correct()[pri:3, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:58:10 CEST" name="correct" finished-at="2025-04-01T12:58:16 CEST" duration-ms="6199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correct -->
+        <test-method is-config="true" signature="ToHome()[pri:0, instance:OrangePOM.TestLogin@9597028]" started-at="2025-04-01T12:58:16 CEST" name="ToHome" finished-at="2025-04-01T12:58:17 CEST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToHome -->
+      </class> <!-- OrangePOM.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
